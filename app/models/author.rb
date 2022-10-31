@@ -11,7 +11,7 @@
 #Returns the oldest article for that given author
 #Returns the oldest article's title for that given author
 #Returns the oldest article's magazine for that given author
-#Returns the oldest article's magazine's name for that given author
+
 
 class Author
   attr_accessor :name, :age
